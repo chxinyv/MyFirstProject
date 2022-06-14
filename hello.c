@@ -6,6 +6,6 @@ int multiply(int a,int b)
 }
 int main()
 {
-    printf("Yoyo,Chen!");
+    printf("Yoyo,little Chen!");
     return 0;
 }
