@@ -9,7 +9,7 @@ int main()
 <<<<<<< HEAD
     printf("Hey,Chen!");
 =======
-    printf("Yoyo,little Chen!");
+    printf("Yoyo,little Chen xin!");
 >>>>>>> main
     return 0;
 }
