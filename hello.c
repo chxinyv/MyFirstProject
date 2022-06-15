@@ -21,7 +21,7 @@ int testt()
 }
 int main()
 {
-
+    // stash
     printf("Hey,Chen!");
     printf("Yoyo,little Chen xin!");
     test();
